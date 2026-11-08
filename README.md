@@ -1,4 +1,3 @@
-
 # Password Strength Checker using python programming language 
 
 password = input("Enter your password: ")
